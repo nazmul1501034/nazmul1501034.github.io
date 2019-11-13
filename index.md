@@ -9,8 +9,3 @@ chance to become a newcomer in this platform.
 
 ![Octocat](./images/61197-033bn6hhdw.jpg)
 
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
