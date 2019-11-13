@@ -14,7 +14,7 @@
 
     <!-- HEADER -->
     <div id="header_wrap" class="outer">
-        <header class="page-header" role="banner">
+        <header class="inner" role="banner">
           {% if site.github.is_project_page %}
             <a id="forkme_banner" href="{{ site.github.repository_url }}">| View on GitHub |</a>
           {% endif %}
@@ -29,8 +29,8 @@
             </section>
           {% endif %}
      	  {% if site.show_downloads %}
-			  <a id="kuet" href="http://www.kuet.ac.bd/" style="margin-right:5px"> KUET </a>
-			  <a id="other" href="../another-page.html" style="margin-right:5px"> Another </a>
+			  <a id="kuet" href="http://www.kuet.ac.bd/" class="btn"> KUET </a>
+			  <a id="other" href="../another-page.html" class="btn"> Another </a>
       	  {% endif %}
         </header>
     </div>
