@@ -2,7 +2,10 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Preface
+Civil engineering is a core platform for the development of nation. So I am proud for getting a
+chance to become a newcomer in this platform.
+[//]: # Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
