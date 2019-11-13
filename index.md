@@ -7,7 +7,7 @@ Civil engineering is a core platform for the development of nation. So I am prou
 chance to become a newcomer in this platform.
 [Link to another page](./another-page.html).
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Octocat](./images/61197-033bn6hhdw.jpg)
 
 ### Large image
 
