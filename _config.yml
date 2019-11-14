@@ -3,3 +3,4 @@ description: Better Experience, Better Knowledge.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-slate
+permalink: /:categories/:year/:month/:day/:title/
